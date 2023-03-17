@@ -1,0 +1,3 @@
+Both Protocol buffers and JSON are languages interoperable, but Protobuf are limited to subsets of programming language,
+whereas JSON is widely accepted. JSON contains the only message and not schema, whereas Protobuf not only has messages but
+also includes a set of rules and schemas to define these messages.
