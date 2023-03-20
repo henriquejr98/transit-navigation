@@ -35,4 +35,3 @@ if __name__ == '__main__':
     traffic = get_traffic_flow(point)
     pprint.pprint(parse_data(traffic))
 
-
